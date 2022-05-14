@@ -1,0 +1,18 @@
+.navigation {
+  grid-area: navigation;
+  background-color: rgb(123, 25, 180);
+  padding: 20px;
+}
+
+.item a {
+  color: antiquewhite;
+  text-decoration: none;
+}
+.item a.activeLink {
+  color:rgb(231, 183, 49);
+  font-weight: 700;
+}
+
+.friends {
+  padding: 30px;
+}

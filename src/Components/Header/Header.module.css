@@ -1,0 +1,13 @@
+.header {
+    grid-area: header;
+    background-color: #bed2d9;
+}
+
+.header img {
+    width: 100px;
+}
+.login {
+    float: right;
+    color: aquamarine;
+    font-weight: bold;
+}

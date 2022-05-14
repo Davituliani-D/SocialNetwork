@@ -1,0 +1,11 @@
+.pic img {
+    width: 40px;
+    border-radius: 50%;
+}
+.dialog {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}

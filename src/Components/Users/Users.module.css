@@ -1,0 +1,16 @@
+.avatar {
+    width: 50px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.numPages {
+    font-weight: bold;
+}
+
+.cursor {
+    cursor: pointer;
+    margin: 5px;
+}
